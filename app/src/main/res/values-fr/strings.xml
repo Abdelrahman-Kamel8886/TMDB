@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="removedWatch">Supprimé de la liste de surveillance</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="addWatch">Ajouté à la liste de surveillance</string>
+    <string name="exit">Voulez-vous sortir ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="search">Recherche</string>
+    <string name="watch_list">Liste de surveillance</string>
+    <string name="there_is_no_movie_yet">Il n\'y a pas encore de films !</string>
+    <string name="find_your_movie_by_type_title_categories_years_etc">Trouvez vos films par type de titre, catégories, années, etc.</string>
+    <string name="see_all">Voir tout</string>
+    <string name="upcoming">Films à venir</string>
+    <string name="now_playing">Lecture en cours</string>
+    <string name="top_rated">Films les mieux notés</string>
+    <string name="popular">Films populaires</string>
+    <string name="the_movie_db">Page d\'accueil</string>
+    <string name="status">Statut</string>
+    <string name="revenue">Revenu</string>
+    <string name="votes">Votes</string>
+    <string name="original_title">Titre original</string>
+    <string name="overview">Aperçu</string>
+    <string name="images">Images</string>
+    <string name="trailers">Bandes annonces</string>
+    <string name="top_cast">Le casting</string>
+    <string name="top_crew">équipe de travail</string>
+    <string name="similar_movies">Films similaires</string>
+    <string name="known_for_department">Connu pour le département</string>
+    <string name="place_of_birth">Lieu de naissance</string>
+    <string name="popularity">Popularité</string>
+    <string name="biography">Biographie</string>
+    <string name="top_cast_movies">Films d\'acteur</string>
+    <string name="top_crew_movies">Films en tant qu\'équipage</string>
+    <string name="also_known_as">Aussi connu sous le nom</string>
+    <string name="up">Films à venir</string>
+    <string name="ra">Films les mieux notés</string>
+    <string name="po">Films populaires</string>
+    <string name="page">Page</string>
+</resources>

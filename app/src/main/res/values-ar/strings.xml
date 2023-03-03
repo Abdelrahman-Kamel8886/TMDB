@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="removedWatch">"تـمـت الإزالـة مـن قـائـمـة الـمـشـاهـدة "</string>
+    <string name="addWatch">"تـمـت الإضـافـة إلـى قـائـمـة الـمـشـاهـدة "</string>
+    <string name="exit">هـل تـريـد الـمـغـادرة ؟</string>
+    <string name="yes">نـعـم</string>
+    <string name="no">لا</string>
+    <string name="search">الـبـحـث</string>
+    <string name="watch_list">قـائـمـة المـشـاهـدة</string>
+    <string name="there_is_no_movie_yet">لا يـوجـد أفـلام بـعـد!</string>
+    <string name="find_your_movie_by_type_title_categories_years_etc">ابـحـث عـن الأفـلام الـخـاصـة بـك حـسـب الـنـوع ، والفـئـات ، والـسـنـوات ، ومـا إلـى ذلـك</string>
+    <string name="see_all">مـشـاهـدة الـكـل</string>
+    <string name="upcoming">الـعـروض الـقـادمـة</string>
+    <string name="now_playing">الـمـعـروضـة حـالـيـا</string>
+    <string name="top_rated">الأعـلـى تـقـيـمـا</string>
+    <string name="popular">الأكـثـر شـعـبـية</string>
+    <string name="the_movie_db">" الـرئـيـسـيـة"</string>
+    <string name="status">الـحـالـة</string>
+    <string name="revenue">الإيـرادات</string>
+    <string name="votes">عـدد الأصـوات</string>
+    <string name="original_title">الـعـنـوان الأصـلـى</string>
+    <string name="overview">الـمـلـخـص</string>
+    <string name="images">صـور فـوتـوغـرافـيـة</string>
+    <string name="similar_movies">الأفـلام الـمـشـابـهـة</string>
+    <string name="top_cast">طـاقـم الـمـمـثـلـيـن</string>
+    <string name="top_crew">طـاقـم الـعـمـل</string>
+    <string name="trailers">الـمـشـاهـد الـتـرويـجـيـة</string>
+    <string name="biography">الـسـيـرة الـذاتـيـة</string>
+    <string name="place_of_birth">مـكـان الـمـيـلاد</string>
+    <string name="known_for_department">الـمـهـنـة</string>
+    <string name="popularity">الـشـعـبـية</string>
+    <string name="top_cast_movies">الـتـمـثـيـل</string>
+    <string name="top_crew_movies">فـريـق الـعـمـل</string>
+    <string name="also_known_as">أيـضـا مـعـروف بــ</string>
+    <string name="up">الـعـروض الـقـادمـة</string>
+    <string name="ra">الـعـروض الأعـلـى تـقـيـمـا</string>
+    <string name="po">الـعـروض الأكـثـر شـعـبـية</string>
+    <string name="page">الـصـفـحـة</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bookadded.xml" value="0.19" />
+        <entry key="app/src/main/res/drawable/booked.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable/gradient.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.21" />
+        <entry key="app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.19" />
+        <entry key="app/src/main/res/drawable/ic_baseline_bookmark_border_24.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable/ic_baseline_indeterminate_check_box_24.xml" value="0.21" />
+        <entry key="app/src/main/res/drawable/ic_baseline_star_outline_24.xml" value="0.181" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2653985507246377" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.2653985507246377" />
+        <entry key="app/src/main/res/layout/fragment_cast.xml" value="0.29243266353142366" />
+        <entry key="app/src/main/res/layout/fragment_cats.xml" value="0.2653985507246377" />
+        <entry key="app/src/main/res/layout/fragment_crew.xml" value="0.29243266353142366" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2653985507246377" />
+        <entry key="app/src/main/res/layout/fragment_movie.xml" value="0.2653985507246377" />
+        <entry key="app/src/main/res/layout/fragment_my_home.xml" value="0.2653985507246377" />
+        <entry key="app/src/main/res/layout/fragment_person.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.2653985507246377" />
+        <entry key="app/src/main/res/layout/fragment_watch_list.xml" value="0.2653985507246377" />
+        <entry key="app/src/main/res/layout/item_MovieImage.xml" value="0.23471569046601112" />
+        <entry key="app/src/main/res/layout/item_Person.xml" value="0.2653985507246377" />
+        <entry key="app/src/main/res/layout/item_localmovie.xml" value="0.29243266353142366" />
+        <entry key="app/src/main/res/layout/item_localmovie2.xml" value="0.29243266353142366" />
+        <entry key="app/src/main/res/layout/item_movie.xml" value="0.2653985507246377" />
+        <entry key="app/src/main/res/layout/item_movie2.xml" value="0.2653985507246377" />
+        <entry key="app/src/main/res/layout/item_movie3.xml" value="0.2653985507246377" />
+        <entry key="app/src/main/res/layout/item_movie_image.xml" value="0.2887294216969185" />
+        <entry key="app/src/main/res/layout/item_moviebig.xml" value="0.29243266353142366" />
+        <entry key="app/src/main/res/layout/item_movienow.xml" value="0.29243266353142366" />
+        <entry key="app/src/main/res/layout/item_person.xml" value="0.2653985507246377" />
+        <entry key="app/src/main/res/layout/item_text.xml" value="0.29243266353142366" />
+        <entry key="app/src/main/res/layout/item_trailer.xml" value="0.29243266353142366" />
+        <entry key="app/src/main/res/menu/menu_nam.xml" value="0.2890625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

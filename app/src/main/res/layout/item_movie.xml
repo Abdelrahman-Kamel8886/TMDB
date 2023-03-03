@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingEnd="10sp"
+
+    android:layout_marginBottom="10sp"
+    >
+
+
+<com.google.android.material.card.MaterialCardView
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    app:cardBackgroundColor="@color/mainColor"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:cardCornerRadius="5sp">
+
+
+
+<androidx.constraintlayout.widget.ConstraintLayout
+
+    android:layout_width="100sp"
+    android:layout_height="match_parent"
+    android:paddingBottom="5sp"
+
+
+    >
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="150sp"
+        android:id="@+id/card"
+        app:strokeWidth="1sp"
+        app:strokeColor="@color/SecondColor"
+        app:layout_constraintTop_toTopOf="parent">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/image_movie"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY"
+                android:src="@drawable/noimage"
+                app:layout_constraintTop_toTopOf="parent"
+                />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+
+    <TextView
+        android:id="@+id/movie_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5sp"
+        android:layout_marginTop="5sp"
+        android:textColor="@color/white"
+        tools:text="Hallo"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:maxLines="2"
+        android:ellipsize="end"
+        app:layout_constraintTop_toBottomOf="@+id/card"
+         />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+</com.google.android.material.card.MaterialCardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

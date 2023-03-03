@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingEnd="10sp"
+
+    android:layout_marginBottom="10sp"
+    >
+
+
+<com.google.android.material.card.MaterialCardView
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    app:cardBackgroundColor="@color/mainColor"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:strokeWidth="2sp"
+    app:strokeColor="@color/white"
+    >
+
+
+
+<androidx.constraintlayout.widget.ConstraintLayout
+
+    android:layout_width="100sp"
+    android:layout_height="wrap_content"
+    android:paddingBottom="5sp"
+
+
+    >
+
+    <ImageView
+        android:id="@+id/pesronImage"
+        android:layout_width="match_parent"
+        android:layout_height="140sp"
+        android:src="@drawable/noimage"
+        android:scaleType="fitXY"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+
+    <TextView
+        android:id="@+id/personName"
+        android:layout_width="0dp"
+        android:layout_height="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginHorizontal="5sp"
+        android:layout_marginTop="5sp"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        android:text="11111111111111111111111111"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:maxLines="2"
+        app:layout_constraintTop_toBottomOf="@+id/pesronImage"
+         />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+</com.google.android.material.card.MaterialCardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

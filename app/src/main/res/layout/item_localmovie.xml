@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="20sp"
+    android:background="@color/mainColor"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="130sp"
+        android:id="@id/card1"
+        app:strokeWidth="0sp"
+        app:strokeColor="@color/white"
+        app:cardBackgroundColor="#132E39"
+        app:layout_constraintBottom_toTopOf="@id/mainLayout">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                android:paddingEnd="20sp"
+                android:id="@+id/movie_title"
+                android:text="Movie Title"
+                android:textStyle="bold"
+                android:textSize="14sp"
+                android:maxLines="2"
+                android:textColor="@color/white"
+                android:layout_marginStart="130sp"
+                android:layout_marginTop="5sp"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintStart_toStartOf="@id/movie_title"
+                app:layout_constraintTop_toBottomOf="@id/movie_title"
+                android:layout_marginTop="5sp"
+                android:src="@drawable/ic_baseline_star_outline_24"
+                android:id="@+id/star"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintStart_toEndOf="@id/star"
+                app:layout_constraintTop_toTopOf="@id/star"
+                app:layout_constraintBottom_toBottomOf="@id/star"
+                android:id="@+id/rate"
+                android:text="None"
+                android:textStyle="bold"
+                android:textSize="12sp"
+                android:textColor="@color/SecondColor"
+                android:layout_marginStart="5sp"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintStart_toStartOf="@id/movie_title"
+                app:layout_constraintTop_toBottomOf="@id/star"
+                android:layout_marginTop="5sp"
+                android:src="@drawable/ic_baseline_language_24"
+                android:id="@+id/lang"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintStart_toEndOf="@id/lang"
+                app:layout_constraintTop_toTopOf="@id/lang"
+                app:layout_constraintBottom_toBottomOf="@id/lang"
+                android:textAllCaps="true"
+                android:id="@+id/language"
+                android:text="None"
+                android:textStyle="bold"
+                android:textSize="12sp"
+                android:textColor="@color/white"
+                android:layout_marginStart="5sp"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintStart_toStartOf="@id/movie_title"
+                app:layout_constraintTop_toBottomOf="@id/lang"
+                android:layout_marginTop="5sp"
+                android:src="@drawable/ic_outline_calendar_today_24"
+                android:id="@+id/clndr"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintStart_toEndOf="@id/clndr"
+                app:layout_constraintTop_toTopOf="@id/clndr"
+                app:layout_constraintBottom_toBottomOf="@id/clndr"
+                android:id="@+id/date"
+                android:textStyle="bold"
+                android:text="None"
+                android:textSize="12sp"
+                android:textColor="@color/white"
+                android:layout_marginStart="5sp"
+                />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="100sp"
+        android:layout_height="140sp"
+        app:cardBackgroundColor="@color/SecondColor"
+        app:cardCornerRadius="5sp"
+        android:id="@+id/card2"
+        app:strokeColor="@color/white"
+        app:strokeWidth="0sp"
+        app:layout_constraintStart_toStartOf="@id/card1"
+        android:layout_marginStart="20sp"
+        app:layout_constraintBottom_toBottomOf="@id/card1"
+        android:layout_marginBottom="20sp"
+        >
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/local_img"
+                android:src="@drawable/noimage"
+                android:scaleType="fitXY"
+                />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="60sp"
+        android:id="@+id/mainLayout"
+        android:visibility="gone"
+        android:elevation="2sp"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
