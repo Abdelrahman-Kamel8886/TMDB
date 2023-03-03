@@ -41,9 +41,9 @@ The app avalibale in 4 languages ( English - French - Spanish - Arabic )
 ![person4](https://user-images.githubusercontent.com/126878089/222727893-1773dc37-2d6a-4c55-ab7b-e0cdb9672753.jpg)
 
 ## Author
-Abdelrahman Kamel
-abdelrahmankamel8886@gmail.com
-+20101372138
+#### Abdelrahman Kamel
+##### abdelrahmankamel8886@gmail.com
+#### +20101372138
 
 
 
