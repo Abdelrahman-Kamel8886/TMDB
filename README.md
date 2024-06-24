@@ -7,6 +7,10 @@ The Api Which the Android app displays data from is  [The Movie Database "TMDB" 
 ## Languages
 The app avalibale in 4 languages ( English - French - Spanish - Arabic )
 
+## Ui/Ux Designed By Mostafa Hussien 
+### Figma Link : https://www.figma.com/design/wXazheOGOcR6iIYbrQwnVj/TMDB
+### Cotact With Mostafa : https://linktr.ee/mosta7ahussi3n
+
 ## Screenshots
 
 ### Splash
