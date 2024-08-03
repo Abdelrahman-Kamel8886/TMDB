@@ -8,7 +8,7 @@ The TMDB Android App is a mobile application that integrates with The Movie Data
 
 ## Features
 
-- **MovieListings**: Discover the latest and most popular movies.
+- **Movie Listings**: Discover the latest and most popular movies.
 - **Detailed Information**: Access comprehensive details including cast, crew, trailers, and reviews.
 - **Search Functionality**: Easily find your favorite movies.
 - **User-Friendly Interface**: Enjoy a clean and intuitive UI for a seamless experience.
