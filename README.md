@@ -68,11 +68,11 @@ This app uses The Movie Database (TMDB) API to fetch movie and TV show data. You
 2. Add your API key to the gradle.properties file:
    ```bash
    TMDB_API_KEY=your_api_key_here
-## UI/UX Design
-### The UI/UX design for this app was created by Mostafa Hussien.
-
-- **Figma Link: [TMDB Design](https://www.figma.com/design/wXazheOGOcR6iIYbrQwnVj/TMDB)**
-- **Contact Mostafa: [Mostafa's Linktree](https://linktr.ee/mosta7ahussi3n)**
+   
+## UI/UX Designed By
+- ### Mostafa Hussien
+   - **Figma Link: [TMDB Design](https://www.figma.com/design/wXazheOGOcR6iIYbrQwnVj/TMDB)**
+   - **Contact Mostafa: [Mostafa's Linktree](https://linktr.ee/mosta7ahussi3n)**
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the app.
