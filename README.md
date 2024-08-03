@@ -56,7 +56,7 @@ The TMDB Android App is a mobile application that integrates with The Movie Data
 3. Build the project and run it on an emulator or a physical device.
    
 ## Technologies Used
-- **Programming Languages: Java, Kotlin**
+- **Programming Languages: Java**
 - **Frameworks & Libraries: Android SDK, Retrofit, Glide, Room Database**
 - **Design Patterns: MVVM, Data Binding**
 - **Tools: Android Studio, GitHub**
