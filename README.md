@@ -79,7 +79,9 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 
 ## Contact
-Feel free to reach out if you have any questions or suggestions.
+For any questions or inquiries, please contact:
+
+### Abdelrahman Kamel
 
 - **LinkedIn: [LinkedIn Profile](www.linkedin.com/in/abdelrahman-kamel-7a7457200)**
 - **Email: abdelrahmankamel8886@gmail.com**
