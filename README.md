@@ -80,11 +80,9 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## Contact
 For any questions or inquiries, please contact:
-
-### Abdelrahman Kamel
-
-- **LinkedIn: [LinkedIn Profile](www.linkedin.com/in/abdelrahman-kamel-7a7457200)**
-- **Email: abdelrahmankamel8886@gmail.com**
+- ### Abdelrahman Kamel
+  - **LinkedIn: [LinkedIn Profile](www.linkedin.com/in/abdelrahman-kamel-7a7457200)**
+  - **Email: abdelrahmankamel8886@gmail.com**
 
 
 
