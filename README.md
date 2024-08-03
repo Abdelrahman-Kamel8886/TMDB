@@ -1,15 +1,19 @@
-# Tmdb
-Movies Android App Using The Movie DB Api v3
+# TMDB Android App
+![tmdp](https://github.com/user-attachments/assets/37c9296d-4f3e-498e-88e2-3c0b76c7b7dd)
 
-## Api
-The Api Which the Android app displays data from is  [The Movie Database "TMDB" ](https://www.themoviedb.org) API , [API Docs](https://developers.themoviedb.org/).
 
-## Languages
-The app avalibale in 4 languages ( English - French - Spanish - Arabic )
+## Overview
 
-## Ui/Ux Designed By Mostafa Hussien 
-### Figma Link : https://www.figma.com/design/wXazheOGOcR6iIYbrQwnVj/TMDB
-### Contact With Mostafa : https://linktr.ee/mosta7ahussi3n
+The TMDB Android App is a mobile application that integrates with The Movie Database (TMDB) API to provide users with an extensive collection of movies. This app allows users to browse, search, and view detailed information about their favorite media content.
+
+## Features
+
+- **MovieListings**: Discover the latest and most popular movies.
+- **Detailed Information**: Access comprehensive details including cast, crew, trailers, and reviews.
+- **Search Functionality**: Easily find your favorite movies.
+- **User-Friendly Interface**: Enjoy a clean and intuitive UI for a seamless experience.
+- **Offline Access**: Save your favorite content for offline viewing.
+- **Multi-Language Support**: Available in English, French, Spanish, and Arabic.
 
 ## Screenshots
 
@@ -44,8 +48,42 @@ The app avalibale in 4 languages ( English - French - Spanish - Arabic )
 ![person3](https://user-images.githubusercontent.com/126878089/222727860-40fc1b9f-9567-44d0-800d-c2e17ac64f00.jpg)
 ![person4](https://user-images.githubusercontent.com/126878089/222727893-1773dc37-2d6a-4c55-ab7b-e0cdb9672753.jpg)
 
-## Author
-Abdelrahman Kamel
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Abdelrahman-Kamel8886/TMDB.git
+2. Open the project in Android Studio.
+3. Build the project and run it on an emulator or a physical device.
+   
+## Technologies Used
+- **Programming Languages: Java, Kotlin**
+- **Frameworks & Libraries: Android SDK, Retrofit, Glide, Room Database**
+- **Design Patterns: MVVM, Data Binding**
+- **Tools: Android Studio, GitHub**
+
+## API Integration
+This app uses The Movie Database (TMDB) API to fetch movie and TV show data. You will need an API key from TMDB to use this app.
+
+1. Sign up for an API key at [The Movie Database "TMDB" ](https://www.themoviedb.org) , [API Docs](https://developers.themoviedb.org/).. 
+2. Add your API key to the gradle.properties file:
+   ```bash
+   TMDB_API_KEY=your_api_key_here
+## UI/UX Design
+### The UI/UX design for this app was created by Mostafa Hussien.
+
+- **Figma Link: [TMDB Design](https://www.figma.com/design/wXazheOGOcR6iIYbrQwnVj/TMDB)**
+- **Contact Mostafa: [Mostafa's Linktree](https://linktr.ee/mosta7ahussi3n)**
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the app.
+
+
+## Contact
+Feel free to reach out if you have any questions or suggestions.
+
+- **LinkedIn: [LinkedIn Profile](www.linkedin.com/in/abdelrahman-kamel-7a7457200)**
+- **Email: abdelrahmankamel8886@gmail.com**
+
 
 
 
