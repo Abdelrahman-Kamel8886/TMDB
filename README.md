@@ -71,7 +71,6 @@ This app uses The Movie Database (TMDB) API to fetch movie and TV show data. You
    
 ## UI/UX Designed By
 - ### Mostafa Hussien
-   - **Figma Link: [TMDB Design](https://www.figma.com/design/wXazheOGOcR6iIYbrQwnVj/TMDB)**
    - **Contact Mostafa: [Mostafa's Linktree](https://linktr.ee/mosta7ahussi3n)**
 
 ## Contributing
